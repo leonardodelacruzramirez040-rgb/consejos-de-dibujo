@@ -201,16 +201,6 @@
     </ul>
   </section>
 
-  <section>
-    <h2>Animaciones suaves para la página (CSS)</h2>
-    <p>Se agregó un estilo para permitir animaciones si deseas usarlas más tarde. Puedo añadir efectos como:</p>
-    <ul>
-      <li>Desvanecimiento al hacer scroll</li>
-      <li>Botones con animación al pasar el mouse</li>
-      <li>Transiciones suaves entre secciones</li>
-    </ul>
-    <p>Solo dime qué efectos quieres y los programo.</p>
-  </section>
 
 <footer>
     <p>© 2025 Página de Consejos para Dibujar</p>
